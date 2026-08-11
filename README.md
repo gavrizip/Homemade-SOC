@@ -1,5 +1,5 @@
 
-## 📖 About the Project
+## About the Project
 
 This project is a step-by-step journey into building a fully functional Security Operations Center (SOC) at home. Designed as a learning and experimentation platform, it covers the essential components of a SOC, including:
 
@@ -12,7 +12,7 @@ This project is designed for learning and experimentation, aimed at enthusiasts 
 
 
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 1. Explore the Documentation:
     
@@ -42,5 +42,5 @@ This project is designed for learning and experimentation, aimed at enthusiasts 
 - /resources: Links to additional tools, articles, and learning materials
 
 
-## 💬 Get in Touch
+## Get in Touch
 Have questions or ideas? Open an issue or start a discussion in this repository. Let’s collaborate and learn together!
