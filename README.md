@@ -16,7 +16,6 @@
 - [Inicio rápido](#-inicio-rápido)
 - [Estructura del proyecto](#-estructura-del-proyecto)
 - [Cómo usar este proyecto](#-cómo-usar-este-proyecto)
-- [Roadmap](#-roadmap)
 - [Contribuir](#-contribuir)
 - [Recursos y créditos](#-recursos-y-créditos)
 - [Licencia](#-licencia)
@@ -133,17 +132,6 @@ Para una guía completa de instalación, ve a [`/setup`](Setup%20-%20detection.m
 
 4. **Contribuye**
    ¿Encontraste una mejor forma de configurar algo? ¿Tienes sugerencias o mejoras? ¡Las contribuciones son bienvenidas! Ver [Contribuir](#-contribuir).
-
-
----
-## Roadmap
-
-- [ ] Integración de SOAR para respuesta automatizada
-- [ ] Dashboard de métricas (MTTD/MTTR)
-- [ ] Simulación de ataques con purple team exercises
-- [ ] Detecciones basadas en MITRE ATT&CK
-
-> Mantener un roadmap ayuda a mostrar hacia dónde va el proyecto y facilita que otros sepan en qué pueden colaborar.
 
 
 ---
