@@ -70,8 +70,8 @@ Antes de empezar, asegúrate de tener:
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/tu-usuario/repo.git
+cd repo
 
 # Revisa la guía de instalación
 cat setup/01-getting-started.md
@@ -175,31 +175,3 @@ Este proyecto está bajo la licencia [MIT](./LICENSE). Puedes usarlo, modificarl
 ## Contacto
 
 ¿Tienes preguntas o ideas? Abre un [issue](../../issues) o inicia una [discusión](../../discussions) en este repositorio. ¡Colaboremos y aprendamos juntos!
-
-
-
-```
-AI/
-├── README.md                      # Índice general: qué cubre esta sección y cómo se relaciona con SOC + redteam
-│
-├── detection/                     # IA aplicada a detección (ML para anomalías)
-│   ├── README.md
-│   ├── setup/                     # Entorno, dependencias, dataset/fuente de datos
-│   ├── models/                    # Modelos entrenados, notebooks, resultados de evaluación
-│   └── docs/                      # Qué modelo, por qué, limitaciones (mismo template que docs/reference)
-│
-├── automation/                    # IA aplicada a triage/automatización (LLM en Shuffle/TheHive)
-│   ├── README.md
-│   ├── setup/                     # Integración: API keys, config de la app LLM en Shuffle
-│   ├── prompts/                   # Plantillas de prompts usadas para resumir/triar alertas
-│   └── docs/                      # Qué hace, por qué, limitaciones, ejemplos antes/después
-│
-├── llm-security/                  # Seguridad de sistemas de IA (red teaming de LLMs)
-│   ├── README.md
-│   ├── playbooks/                 # Escenarios de ataque: prompt injection, jailbreaks, etc.
-│   ├── reports/                   # Resultados, mismo formato purple-team que /redteam/reports
-│   └── mitre-atlas-mapping.md     # Equivalente a mitre-attack-mapping.md pero con MITRE ATLAS (el framework específico para ataques a sistemas de IA)
-│
-└── meta/
-    └── ai-assisted-development.md # Documentación de cómo usaste IA (yo) para construir/documentar este propio repo
-```
